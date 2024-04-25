@@ -31,4 +31,4 @@ The GitHub repository will serve as the central hub for all project-related mate
 - A `renv.lock` file to manage R dependencies.
 - Automated deployment configurations using GitHub Actions for continuous integration and deployment to GitHub Pages.
 
-This detailed approach ensures the retirement simulation dashboard is not just a tool, but a comprehensive solution that enhances financial literacy and planning for retirement, making sophisticated financial analysis accessible to the general public. The repository can be accessed [here](https://github.com/<username>/retirement-simulation-dashboard).
+This detailed approach ensures the retirement simulation dashboard is not just a tool, but a comprehensive solution that enhances financial literacy and planning for retirement, making sophisticated financial analysis accessible to the general public. The repository can be accessed [here](https://github.com/tunghng/data-viz-proj-2).
