@@ -168,7 +168,6 @@ dashboardPage(
               actionButton('jumpToRetirement', 'Move to Retirement Projections')
       ),
       tabItem(tabName = "Retirement",
-              downloadButton("downloadmontecarloretirement", "Acquire Retirement Monte Carlo Data"),
               tags$h3("Preview of Initial Retirement Simulation:"),
               DT::dataTableOutput("montecarlo_table_retirement"),
               plotlyOutput("brokerage_retirement_graph"),
